@@ -1,4 +1,4 @@
-namespace Program
+namespace hashcode23train
 {
     internal class Parser
     {
