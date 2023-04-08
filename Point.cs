@@ -2,13 +2,13 @@ namespace Program
 {
     internal class Point
     {
-        private int v1;
-        private int v2;
+        private int c;
+        private int r;
 
-        public Point(int v1, int v2)
+        public Point(int c, int r)
         {
-            this.v1 = v1;
-            this.v2 = v2;
+            this.c = c;
+            this.r = r;
         }
     }
 }

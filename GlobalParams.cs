@@ -8,7 +8,7 @@ namespace Program
 
         public int TotalTime { get; internal set; }
         public int Radius { get; internal set; }
-        public int AccelarationRanges { get; internal set; }
+        public int AccelarationRangesNumber { get; internal set; }
         public int NumberOfGifts { get; internal set; }
         public Dictionary<int, int> Ranges { get; internal set; }
         public List<Gift> Gifts { get; internal set; }
